@@ -1,0 +1,74 @@
+//cajero automatico 
+//hacer bienvenida
+//funcion de retirarar retiro
+//mostrar total
+//contraseña 
+//retiro
+//error de  retiro cantidad sin suficiente 
+//error de limite de retiro 
+//desea hacer otras funcion si o no 
+//mensaje de salida y entrada 
+
+
+//cambio de divisa
+
+
+
+//si y no ( mensaje gracias)
+si
+//deposito (cuanto quiere depositar)
+
+
+
+
+
+//cajero automatico 
+
+//librerias
+imput java scrip imput java;
+
+
+//hacer bienvenida al sistema
+
+java scrip name 
+class
+ prints  "Benvenido al BBVA";
+ 
+//usuario / contraseña
+//pedir nombre y contraseña 
+
+//verificar nombre y contraseña 
+
+// 2 salidas (Error/entrar)
+
+//error verifique su nombre y/o contraseña 
+
+//Mandar mensaje de bevenido al vanco (nombre)
+
+//menu 
+
+// Retirar dinero/depositar/cambio de divis/salir
+
+//Retiro 
+//mensaje 
+//Cuanto deseas retirar? 
+
+//mensaje  (se a retirado un total $$$$)
+
+//salir  del retiro
+
+
+//deposito 
+
+//numero de deposito 
+//Cantidad que deseas depositar 
+//el deposito fue exito
+
+//salir del retiro
+
+//Cambiar divisa
+
+//salir 
+
+
+//Saliendo del sistma
