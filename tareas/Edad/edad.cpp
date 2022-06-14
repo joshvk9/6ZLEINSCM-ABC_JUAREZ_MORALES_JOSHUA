@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	
-	int diaNac,mesNac,anioNac,;
+	int diaNac,mesNac,anioNac;
 	int diaActual,MesActual,anioActual;
 	int edad;
 	
@@ -14,31 +14,31 @@ int main(){
 	cout<<endl;
 	cout<<"ingrese la fehca actual: "<<endl;
 	cin>>diaActual;
-	cin>>mesActual;
+	cin>>MesActual;
 	cin>>anioActual;
 	
-	if(mesNac<mesActual){
+	if(mesNac<MesActual){
 		edad=anioActual-anioNac;
 		
 	}
-	else if(mesNac==mesActual){
+	else if(mesNac==MesActual){
 		if(diaNac<=diaActual){
-			edad=anioActuial-anioNac;
+			edad = anioActual-anioNac;
 			
 		}
 		else{
-			edad=(anionActual-anioNac)-1;
+			edad=(anioActual-anioNac)-1;
 		}
 	}
 	
-	else if(mesNac>mesActual){
+	else if(mesNac>MesActual){
 		edad=(anioActual-anioNac)-1;
 		
 	}
 	
-	cout<<"Edad de la persona: "<<edad<<enl;
+	cout<<"Edad de la persona: "<<edad<<endl;
 	
-	System("pause");
+	system("pause");
 	return 0;
 }
 

@@ -1,6 +1,0 @@
-matriz  tranzpuestas 
-
-programa una matriz transpuestas
-c++
-
-filas,
